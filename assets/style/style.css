@@ -1,0 +1,28 @@
+.header-img {
+    width: 100%;
+    background-image: url("/assets/images/banner.jpeg");
+    height: 400px;
+    background-position: center;
+}
+
+@media screen and (max-width: 900px) {
+    .header-img {
+        width: 100%;
+        background-image: url("/assets/images/banner.jpeg");
+        height: 30vi;
+        background-position: center;
+    }
+}
+
+.personal_img {
+    width: 250px;
+}
+
+.link-icon {
+    font-size: 32px;
+    color: black;
+}
+
+.card-img-custom {
+    width: 100%;
+}
